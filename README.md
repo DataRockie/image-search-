@@ -8,3 +8,4 @@ It is useful when you want to search for all the images of same place like if yo
 #CONTENT BASED IMAGE RETRIVEL METHOD
 "Content-based" means that the search analyzes the contents of the image rather than the metadata such as keywords, tags, or descriptions associated with the image. The term "content" in this context might refer to colors, shapes, textures, or any other information that can be derived from the image itself. 
 CBIR is desirable because searches that rely purely on metadata are dependent on annotation quality and completeness.
+![ScreenShot](cbirh1.gif)
